@@ -1,0 +1,14 @@
+twilio
+Flask
+PyPDF2
+python-dotenv
+langchain
+langchain_community
+langchain_google_genai
+requests
+langchain-groq
+google-cloud-aiplatform
+groq
+faiss-cpu
+pypdf
+langchain-core
